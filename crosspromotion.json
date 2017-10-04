@@ -1,9 +1,9 @@
 {
-  "Version": 1,
+  "Version": 2,
 
   "AppsList-Android": [
     {
-      "AppTitle": "Rain Games - Memory Challenge",
+      "AppTitle": "Memory Challenge",
       "AppDescription": "Feeling cool? Come join this challenge. Can you pass the 100 mark?",
       "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/braingame.png",
       "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/Brain.png",
@@ -30,7 +30,7 @@
       "Id": "gopencils.games.zenflight"
     },
 	{
-      "AppTitle": "Go Ninja Fatty - Amazing World",
+      "AppTitle": "Amazing Ninja",
       "AppDescription": "A dangerous ninja with the Fruit-Slasher sword. How far his advanture can go?",
       "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/goninja.png",
       "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/Ninja.png",
@@ -39,7 +39,7 @@
       "Id": "gopencils.games.fattyninja"
     },
 	{
-      "AppTitle": "Word Escape - Tap, Jump and Go",
+      "AppTitle": "Word Escape",
       "AppDescription": "Honey I'm pregnant! ...! Honey where are you? Honey!!! Don't run!!!!!",
       "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/wordescape.png",
       "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/WordEscape.png",
@@ -87,7 +87,7 @@
 
   "AppsList-iOS": [
     {
-      "AppTitle": "Rain Games - Memory Challenge",
+      "AppTitle": "Memory Challenge",
       "AppDescription": "Feeling cool? Come join this challenge. Can you pass the 100 mark?",
       "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/braingame.png",
       "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/Brain.png",
@@ -114,7 +114,7 @@
       "Id": "1289532366"
     },
 	{
-      "AppTitle": "Go Ninja Fatty - Amazing World",
+      "AppTitle": "Amazing Ninja",
       "AppDescription": "A dangerous ninja with the Fruit-Slasher sword. How far his advanture can go?",
       "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/goninja.png",
       "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/Ninja.png",
@@ -123,7 +123,7 @@
       "Id": "1289532704"
     },
 	{
-      "AppTitle": "Word Escape - Tap, Jump and Go",
+      "AppTitle": "Word Escape",
       "AppDescription": "Honey I'm pregnant! ...! Honey where are you? Honey!!! Don't run!!!!!",
       "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/wordescape.png",
       "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/WordEscape.png",
