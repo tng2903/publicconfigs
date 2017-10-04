@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+
+  "AppsList-Android": [
+    {
+      "AppTitle": "Rain Games - Memory Challenge",
+      "AppDescription": "Feeling cool? Come join this challenge. Can you pass the 100 mark?",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/braingame.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/Brain.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "gopencils.games.brain100"
+    },
+	{
+      "AppTitle": "Flag Jump",
+      "AppDescription": "Run, Calculate, Jump and Pray in this hell of a game, where unfair is the only right word",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/flagjump.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/FlagJump.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "gopencils.games.flagjump"
+    },
+	{
+      "AppTitle": "Zen Flight",
+      "AppDescription": "Tired? Need some space? We have just the thing! Soothing music, beautiful flight, relax...",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/flight.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/ZenFlight.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "gopencils.games.zenflight"
+    },
+	{
+      "AppTitle": "Go Ninja Fatty - Amazing World",
+      "AppDescription": "A dangerous ninja with the Fruit-Slasher sword. How far his advanture can go?",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/goninja.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/Ninja.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "gopencils.games.fattyninja"
+    },
+	{
+      "AppTitle": "Word Escape - Tap, Jump and Go",
+      "AppDescription": "Honey I'm pregnant! ...! Honey where are you? Honey!!! Don't run!!!!!",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/wordescape.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/WordEscape.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "gopencils.games.wordescape"
+    },
+	{
+      "AppTitle": "3D Shape Jumper",
+      "AppDescription": "Want to test your reaction? Test your combination of eye and hands? This game is for you",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/shapejump.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/ShapeJump.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "gopencils.games.shapejumper"
+    },
+	{
+      "AppTitle": "Snakez: Balls vs Blocks",
+      "AppDescription": "The classic Snake game with a little twist. Feed the snake with food, and battle with the enemy. Download to find out",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/snakez.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/Snake.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "gopencils.games.snakez"
+    },
+	{
+      "AppTitle": "Blocky Temple Escape",
+      "AppDescription": "Run, baby, run! The rock is chasing you. How far can you go?",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/templeescape.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/TempleEscape.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "gopencils.games.blockytemple"
+    },
+	{
+      "AppTitle": "Cowboy Hero - Zombie Killer",
+      "AppDescription": "Hold to aim, release to fire. Kill the zombies, try to survive. I don't think you can make it through the 50 mark",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/zombiestrike.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/Zombie.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "gopencils.games.zombiestrike"
+    }
+  ],
+
+  "AppsList-iOS": [
+    {
+      "AppTitle": "Rain Games - Memory Challenge",
+      "AppDescription": "Feeling cool? Come join this challenge. Can you pass the 100 mark?",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/braingame.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/Brain.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "1289531796"
+    },
+	{
+      "AppTitle": "Flag Jump",
+      "AppDescription": "Run, Calculate, Jump and Pray in this hell of a game, where unfair is the only right word",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/flagjump.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/FlagJump.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "1289534518"
+    },
+	{
+      "AppTitle": "Zen Flight",
+      "AppDescription": "Tired? Need some space? We have just the thing! Soothing music, beautiful flight, relax...",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/flight.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/ZenFlight.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "1289532366"
+    },
+	{
+      "AppTitle": "Go Ninja Fatty - Amazing World",
+      "AppDescription": "A dangerous ninja with the Fruit-Slasher sword. How far his advanture can go?",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/goninja.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/Ninja.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "1289532704"
+    },
+	{
+      "AppTitle": "Word Escape - Tap, Jump and Go",
+      "AppDescription": "Honey I'm pregnant! ...! Honey where are you? Honey!!! Don't run!!!!!",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/wordescape.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/WordEscape.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "1287351353"
+    },
+	{
+      "AppTitle": "3D Shape Jumper",
+      "AppDescription": "Want to test your reaction? Test your combination of eye and hands? This game is for you",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/shapejump.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/ShapeJump.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "1287350527"
+    },
+	{
+      "AppTitle": "Snakez: Balls vs Blocks",
+      "AppDescription": "The classic Snake game with a little twist. Feed the snake with food, and battle with the enemy. Download to find out",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/snakez.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/Snake.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "1292135099"
+    },
+	{
+      "AppTitle": "Blocky Temple Escape",
+      "AppDescription": "Run, baby, run! The rock is chasing you. How far can you go?",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/templeescape.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/TempleEscape.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "1290053598"
+    },
+	{
+      "AppTitle": "Cowboy Hero - Zombie Killer",
+      "AppDescription": "Hold to aim, release to fire. Kill the zombies, try to survive. I don't think you can make it through the 50 mark",,
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/zombiestrike.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/Zombie.png",
+      "Visible": true,
+      "ShouldShowPopup": false,
+      "Id": "1292167278"
+    }
+  ]
+}
