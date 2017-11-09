@@ -1,7 +1,16 @@
 {
-  "Version": 2,
+  "Version": 3,
 
   "AppsList-Android": [
+    {
+      "AppTitle": "RuOK? Neon WipeOut",
+      "AppDescription": "When everything look dangerous, a coward will run, but what will you do?",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/ruok.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/ruok.png",
+      "Visible": true,
+      "ShouldShowPopup": true,
+      "Id": "gopencils.games.wipe.out.the.hardest.challenge"
+    },
     {
       "AppTitle": "Memory Challenge",
       "AppDescription": "Feeling cool? Come join this challenge. Can you pass the 100 mark?",
@@ -86,6 +95,15 @@
   ],
 
   "AppsList-iOS": [
+    {
+      "AppTitle": "RuOK? Neon WipeOut",
+      "AppDescription": "When everything look dangerous, a coward will run, but what will you do?",
+      "IconUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Icon/ruok.png",
+      "ScreenshotUrl": "https://raw.githubusercontent.com/tng2903/publicconfigs/master/Screenshot/ruok.png",
+      "Visible": true,
+      "ShouldShowPopup": true,
+      "Id": "1304842901"
+    },
     {
       "AppTitle": "Memory Challenge",
       "AppDescription": "Feeling cool? Come join this challenge. Can you pass the 100 mark?",
